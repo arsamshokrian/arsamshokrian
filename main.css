@@ -56,3 +56,10 @@ nav ul {
 .contact-btn {
 
 }
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #204156;
+  text-decoration: none;
+}
