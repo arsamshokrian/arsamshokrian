@@ -17,6 +17,7 @@ h2 {
 
 
 .hero {
+  color: #ffffff;
 	padding: 250px 0;
 	margin: 30px;
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
@@ -38,3 +39,6 @@ p {
 	text-decoration: none;
 }
 
+#footer {
+  font-size: 0.75rem;
+}
