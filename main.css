@@ -39,3 +39,20 @@ p {
 	text-decoration: none;
 }
 
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-btn {
+
+}
