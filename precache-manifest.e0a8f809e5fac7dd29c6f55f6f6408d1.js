@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4673d9b895488886484a00acf8c3f9c3",
+    "revision": "4f951eb1bd245e9ed72b0e91f33e409e",
     "url": "/arsamshokrian/arsamshokrian.git/index.html"
   },
   {
-    "revision": "e0ff0624172428edf7e2",
+    "revision": "d81678c565d097edd017",
     "url": "/arsamshokrian/arsamshokrian.git/static/css/main.2f597592.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arsamshokrian/arsamshokrian.git/static/js/2.df5e1e46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0ff0624172428edf7e2",
-    "url": "/arsamshokrian/arsamshokrian.git/static/js/main.8418f9a9.chunk.js"
+    "revision": "d81678c565d097edd017",
+    "url": "/arsamshokrian/arsamshokrian.git/static/js/main.ef608b7e.chunk.js"
   },
   {
     "revision": "ae6f0677406fe46596d7",
