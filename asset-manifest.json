@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f597592.chunk.css",
-    "main.js": "/static/js/main.22ec8c02.chunk.js",
-    "main.js.map": "/static/js/main.22ec8c02.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9a8f3e52.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9a8f3e52.js.map",
-    "static/js/2.df5e1e46.chunk.js": "/static/js/2.df5e1e46.chunk.js",
-    "static/js/2.df5e1e46.chunk.js.map": "/static/js/2.df5e1e46.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6ff8d0204433a4e4415199b747e1de62.js": "/precache-manifest.6ff8d0204433a4e4415199b747e1de62.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2f597592.chunk.css.map": "/static/css/main.2f597592.chunk.css.map",
-    "static/js/2.df5e1e46.chunk.js.LICENSE.txt": "/static/js/2.df5e1e46.chunk.js.LICENSE.txt"
+    "main.css": "/arsamshokrian/arsamshokrian.git/static/css/main.2f597592.chunk.css",
+    "main.js": "/arsamshokrian/arsamshokrian.git/static/js/main.5a56e59d.chunk.js",
+    "main.js.map": "/arsamshokrian/arsamshokrian.git/static/js/main.5a56e59d.chunk.js.map",
+    "runtime-main.js": "/arsamshokrian/arsamshokrian.git/static/js/runtime-main.b65a8315.js",
+    "runtime-main.js.map": "/arsamshokrian/arsamshokrian.git/static/js/runtime-main.b65a8315.js.map",
+    "static/js/2.4dd7bc62.chunk.js": "/arsamshokrian/arsamshokrian.git/static/js/2.4dd7bc62.chunk.js",
+    "static/js/2.4dd7bc62.chunk.js.map": "/arsamshokrian/arsamshokrian.git/static/js/2.4dd7bc62.chunk.js.map",
+    "index.html": "/arsamshokrian/arsamshokrian.git/index.html",
+    "precache-manifest.a99cec8e92019ec6ecba779fa7c613ae.js": "/arsamshokrian/arsamshokrian.git/precache-manifest.a99cec8e92019ec6ecba779fa7c613ae.js",
+    "service-worker.js": "/arsamshokrian/arsamshokrian.git/service-worker.js",
+    "static/css/main.2f597592.chunk.css.map": "/arsamshokrian/arsamshokrian.git/static/css/main.2f597592.chunk.css.map",
+    "static/js/2.4dd7bc62.chunk.js.LICENSE.txt": "/arsamshokrian/arsamshokrian.git/static/js/2.4dd7bc62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a8f3e52.js",
-    "static/js/2.df5e1e46.chunk.js",
+    "static/js/runtime-main.b65a8315.js",
+    "static/js/2.4dd7bc62.chunk.js",
     "static/css/main.2f597592.chunk.css",
-    "static/js/main.22ec8c02.chunk.js"
+    "static/js/main.5a56e59d.chunk.js"
   ]
 }
