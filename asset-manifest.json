@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arsamshokrian.github.io/static/css/main.2f597592.chunk.css",
+    "main.js": "/arsamshokrian.github.io/static/js/main.aa9b8e15.chunk.js",
+    "main.js.map": "/arsamshokrian.github.io/static/js/main.aa9b8e15.chunk.js.map",
+    "runtime-main.js": "/arsamshokrian.github.io/static/js/runtime-main.5dfe7398.js",
+    "runtime-main.js.map": "/arsamshokrian.github.io/static/js/runtime-main.5dfe7398.js.map",
+    "static/js/2.df5e1e46.chunk.js": "/arsamshokrian.github.io/static/js/2.df5e1e46.chunk.js",
+    "static/js/2.df5e1e46.chunk.js.map": "/arsamshokrian.github.io/static/js/2.df5e1e46.chunk.js.map",
+    "index.html": "/arsamshokrian.github.io/index.html",
+    "precache-manifest.183a7569d311ec5576a3ec3aa9aa4a6a.js": "/arsamshokrian.github.io/precache-manifest.183a7569d311ec5576a3ec3aa9aa4a6a.js",
+    "service-worker.js": "/arsamshokrian.github.io/service-worker.js",
+    "static/css/main.2f597592.chunk.css.map": "/arsamshokrian.github.io/static/css/main.2f597592.chunk.css.map",
+    "static/js/2.df5e1e46.chunk.js.LICENSE.txt": "/arsamshokrian.github.io/static/js/2.df5e1e46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dfe7398.js",
+    "static/js/2.df5e1e46.chunk.js",
+    "static/css/main.2f597592.chunk.css",
+    "static/js/main.aa9b8e15.chunk.js"
+  ]
+}
