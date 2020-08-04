@@ -31,13 +31,11 @@ OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
-/**
- * A better abstraction over CSS.
+/*! Hammer.JS - v2.0.7 - 2016-04-22
+ * http://hammerjs.github.io/
  *
- * @copyright Oleg Isonen (Slobodskoi) / Isonen 2014-present
- * @website https://github.com/cssinjs/jss
- * @license MIT
- */
+ * Copyright (c) 2016 Jorik Tangelder;
+ * Licensed under the MIT license */
 
 /** @license React v0.19.1
  * scheduler.production.min.js
