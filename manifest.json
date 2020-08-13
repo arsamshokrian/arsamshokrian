@@ -4,13 +4,13 @@
   "icons": [
     {
       "src": "/website_arsam_logo_alt2.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "/website_arsam_logo_alt2.png",
+      "src": "/website_arsam_logo_alt2_bigger.png",
       "type": "image/png",
-      "sizes": "87x87"
+      "sizes": "144x144"
     }
   ],
   "start_url": ".",
