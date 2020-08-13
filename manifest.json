@@ -10,12 +10,7 @@
     {
       "src": "/website_arsam_logo_alt2.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/website_arsam_logo_alt2.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "87x87"
     }
   ],
   "start_url": ".",
